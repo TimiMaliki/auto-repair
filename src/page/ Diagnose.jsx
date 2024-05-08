@@ -5,7 +5,7 @@ function  Diagnose() {
     <div className="w-full h-full mt-2 text-center">
     {/* <img src={Car} alt="" /> */}
     <h2 className='text-xl lg:text-4xl w-full flex justify-center font-extrabold mt-20 mb-10 text-yellow-700 '>Wat is een auto diagnose test en waarom is het zo belangrijk?</h2>
-  <div className="w-full h-full dot flex justify-start  gap-2 lg:gap-8 p-14">
+  <div className="w-full h-full dot flex justify-start  gap-2 lg:gap-8 p-2">
       <p className="text-base lg:text-2xl w-full font-semibold">
       Jaarlijkse controles bij uw arts houden u in goede conditie, toch? Welnu, hetzelfde geldt voor uw auto. Regelmatige diagnostische tests kunnen problemen met uw voertuig detecteren, voordat ze dure reparaties vereisen, of erger nog, stranden aan de kant van de weg, na een pech onderweg. En hoewel veel mensen denken dat diagnostische tests alleen nodig zijn als het controlelampje gaat branden, zijn er veel voordelen aan het proactief omgaan met uw auto onderhoud. Dit is waarom:
        <br /><br />
