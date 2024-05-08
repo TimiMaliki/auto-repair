@@ -13,7 +13,7 @@ const Client = () => {
   }, [])
   return (
     <div className="w-full h-full mt-12">
-      <div className="w-full h-full dot flex justify-start  gap-2 lg:gap-8 p-14"  data-aos="fade-right">
+      <div className="w-full h-full dot flex justify-start  gap-2 lg:gap-8 p-4"  data-aos="fade-right">
         <img src={dot} alt="dot" />
         <p className="text-base lg:text-2xl w-full font-semibold">
         Wij begrijpen dat autoreparaties en -onderhoud lastig en duur kunnen zijn. Daarom streven wij ernaar om het proces zo zorgeloos en betaalbaar mogelijk te maken voor onze klanten. We bieden flexibele planningsopties die

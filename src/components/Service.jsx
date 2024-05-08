@@ -9,14 +9,14 @@ const Service = () => {
   return (
     <div className="w-full h-full mt-12">
       <div className="w-full h-full grid lg:grid-cols-2 gap-3">
-        <div className="our-services overflow-hidden p-10">
+        <div className="our-services overflow-hidden p-4">
           <h1 className="text-4xl text-center lg:text-7xl font-extrabold overflow-hidden" data-aos="fade-right">
           Onze diensten
           </h1>
         </div>
 
         <div className="text overflow-hidden">
-          <p className="lg:text-xl text-base text-center overflow-hidden p-10" data-aos="fade-left">
+          <p className="lg:text-xl text-base text-center overflow-hidden p-4" data-aos="fade-left">
           Of uw auto nu een eenvoudige onderhoudsbeurt of een grote reparatie nodig heeft, wij staan voor u klaar. Van motordiagnostiek tot remreparaties, van ophangingswerkzaamheden tot transmissieservices, onze bekwame technici hebben de expertise om elke klus, groot of klein, aan te kunnen. We gebruiken onderdelen van hoge kwaliteit en volgen de beste praktijken uit de sector om uw voertuig weer optimaal te laten presteren.
           </p>
         </div>
