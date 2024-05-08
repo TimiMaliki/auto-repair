@@ -61,7 +61,7 @@ const Service = () => {
           </div>
 
           <div className="card-one  w-full  text-center p-10 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">verzekeringsoffertes</h2>
+            <h2 className="text-3xl font-semibold">Verzekeringsoffertes</h2>
           {/* </div> */}
         </div>
       </div>
