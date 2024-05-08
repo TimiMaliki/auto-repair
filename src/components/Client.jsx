@@ -3,8 +3,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import dot from "../assets/client-logo-img/dot.svg";
 import car  from "../assets/client-logo-img/features.png";
-import 'atropos/css';
-import Atropos from 'atropos/react';
+
 
 
 
@@ -23,17 +22,11 @@ const Client = () => {
         </p>
       </div>
 
-      <Atropos className="my-atropos lg:grid" shadow={false}>
+    
       <div className="p-14 lg:p-12 flex justify-center">
       <img src={car} alt="dot" />
       </div>
-      </Atropos>
 
-      <Atropos className="my-atropos block" shadow={false}>
-      <div className="p-14 lg:p-12 flex justify-center">
-      <img src={car} alt="dot" />
-      </div>
-      </Atropos>
     </div>
   );
 };
