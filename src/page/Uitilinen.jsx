@@ -2,7 +2,6 @@ import Car from "../assets/hero-img/3d.jpg"
 
 
 const BlogArticle = () => {
-
   return (
     <div className="w-full h-full mt-2">
       <img src={Car} alt="" />
