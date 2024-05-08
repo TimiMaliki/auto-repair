@@ -40,7 +40,7 @@ nav ul li a {
 nav .menu {
   display: none;
   position: absolute;
-  top: 1.95rem;
+  top: 0.35rem;
   right: 0.5rem;
   flex-direction: column;
   justify-content: space-between;
