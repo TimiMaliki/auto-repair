@@ -2,9 +2,10 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="w-full h-full bg-black text-white">
-      <div className="grid grid-cols-1 lg:grid-cols-4 mt-10 p-10">
-        <div className="brand">
+    <div className="w-full h-full text-center  bg-black text-white">
+         <h1 className="text-3xl lg:text-5xl font-bold text-white p-4 text-center block lg:hidden">AUTO CENTER KELLA</h1>
+      <div className="grid grid-cols-1 lg:grid-cols-4 mt-10 p-0 lg:p-10 text-center"> 
+        <div className="brand  hidden lg:grid">
           <h1 className="text-3xl lg:text-5xl font-bold text-white">AUTO CENTER KELLA</h1>
         </div>
 
