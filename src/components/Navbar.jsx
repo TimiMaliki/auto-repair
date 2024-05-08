@@ -6,9 +6,9 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <nav className="w-full bg-white justify-between text-center items-center lg:p-2 p-8 sticky">
+    <nav className="w-full bg-white justify-between text-center items-center lg:p-2 p-2 sticky">
  
-      <Link to="/"><h1 className="text-3xl  lg:text-5xl font-bold lg:px-4 brand   text-yellow-700">AUTO CENTER KELLA</h1></Link>
+      <Link to="/"><h1 className="text-xl  lg:text-5xl font-bold lg:px-4 brand   text-yellow-700">AUTO CENTER KELLA</h1></Link>
     
    
 
