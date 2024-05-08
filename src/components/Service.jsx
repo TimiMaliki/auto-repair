@@ -57,11 +57,11 @@ const Service = () => {
           </div>
 
           <div className="card-one  w-full  text-center p-10 mb-2  lg:p-20 border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">HKeuring<br />snazicht</h2>
+            <h2 className="text-3xl font-semibold">Keuringnazicht</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Verzerkering<br />soffertes</h2>
+            <h2 className="text-3xl font-semibold">verzekeringsoffertes</h2>
           {/* </div> */}
         </div>
       </div>
