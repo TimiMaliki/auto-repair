@@ -17,7 +17,7 @@ export const HomeDisplayBlog = () => {
   }, [])
   return (
     <div className="w-full h-full mt-12" data-aos="zoom-in-up">
-      <div className="car-one w-full h-full grid lg:grid-cols-4 grid-cols-2 gap-3 p-14 lg:p-12">
+      <div className="car-one w-full h-full grid lg:grid-cols-4 grid-cols-2 gap-3 p-4 lg:p-12">
       {feature.map((item) => (
            <div className="flex justify-center rounded-lg">
             <img src={item} alt="" key={item.id} className="rounded-lg object-cover" style={{width:"100%", height:"auto"}}/>
