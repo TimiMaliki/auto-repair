@@ -23,7 +23,7 @@ const Client = () => {
         </p>
       </div>
 
-      <Atropos className="my-atropos" shadow={false}>
+      <Atropos className="my-atropos hidden lg:block" shadow={false}>
       <div className="p-14 lg:p-12 flex justify-center">
       <img src={car} alt="dot" />
       </div>
