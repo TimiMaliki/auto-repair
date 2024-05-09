@@ -10,7 +10,7 @@ const Service = () => {
     <div className="w-full h-full mt-12">
       <div className="w-full h-full grid lg:grid-cols-2 gap-3">
         <div className="our-services overflow-hidden p-2">
-          <h1 className="text-4xl text-center lg:text-7xl font-extrabold overflow-hidden p-1" data-aos="fade-right">
+          <h1 className="text-xl text-center lg:text-7xl  font-semibold  lg:font-extrabold overflow-hidden p-1" data-aos="fade-right">
           Onze diensten
           </h1>
         </div>
