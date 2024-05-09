@@ -9,13 +9,13 @@ const About = () => {
   return (
     <section className="w-full h-full  grid lg:grid-cols-3 lg:p-12">
       <div className="card-one w-full h-full  text-center overflow-hidden">
-        <h1 className="text-2xl lg:text-7xl font-extrabold mt-2 p-4 overflow-hidden" data-aos="zoom-in">
+        <h1 className="text-2xl lg:text-7xl  font-semibold  lg:font-extrabold mt-2 p-4 overflow-hidden" data-aos="zoom-in">
        AUTO CENTER KELLA
         </h1>
       </div>
 
       <div className="card-one w-full h-full  text-center overflow-hidden">
-        <h1 className="text-2xl font-extrabold p-2 overflow-hidden" data-aos="zoom-in">BEST SERVICE FOR YOUR CAR</h1>
+        <h1 className="text-xl lg:text-2xl font-semibold lg:font-extrabold p-2 overflow-hidden" data-aos="zoom-in">BEST SERVICE FOR YOUR CAR</h1>
       </div>
 
       <div className="card-one w-full h-full  text-center overflow-hidden p-2">
