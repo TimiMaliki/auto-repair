@@ -10,17 +10,16 @@ import carFive from "../assets/client-logo-img/engine4.jpg"
 
 
 export const HomeDisplayBlog = () => {
-
   const feature =[carOne,carTwo,carFour,carFive,]
   useEffect(() => {
     AOS.init();
   }, [])
   return (
-    <div className="w-full h-full mt-12" data-aos="zoom-in-up">
+    <div className="w-full h-full mt-12 overflow-hidden">
       <div className="car-one w-full h-full grid lg:grid-cols-4 grid-cols-2 gap-3 p-4 lg:p-12">
       {feature.map((item) => (
-           <div className="flex justify-center rounded-lg">
-            <img src={item} alt="" key={item.id} className="rounded-lg object-cover" style={{width:"100%", height:"auto"}}/>
+           <div className="flex justify-center rounded-lg" data-aos="fade-in-up">
+            <img src={item} alt="" key={item.id} className="rounded-lg object-cover"/>
            </div>
         ))}
       </div>

@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  
 
   return (
     <nav className="w-full bg-white justify-between text-center items-center lg:p-2 p-3 sticky">

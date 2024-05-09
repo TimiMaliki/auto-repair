@@ -3,7 +3,7 @@ import HeroSection from './HeroSection'
 import About from './About'
 import Client from './Client'
 import Service from './Service'
-import HomeBlog from './HomeBlog'
+import UitilineneMore from './UitilineneMore'
 
 const App = () => {
   return (
@@ -12,7 +12,7 @@ const App = () => {
         <About/>
         <Service/>
         <Client/>
-        <HomeBlog/>
+        <UitilineneMore/>
 
     </div>
   )

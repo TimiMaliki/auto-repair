@@ -18,8 +18,8 @@ const About = () => {
         <h1 className="text-2xl font-extrabold p-2 overflow-hidden" data-aos="zoom-in">BEST SERVICE FOR YOUR CAR</h1>
       </div>
 
-      <div className="card-one w-full h-full  text-center overflow-hidden">
-        <p className="text-xl   p-4" data-aos="zoom-in">
+      <div className="card-one w-full h-full  text-center overflow-hidden p-2">
+        <p className="lg:text-xl text-base" data-aos="zoom-in">
         "Onze garage is opgericht in 2012. Wij willen ons onderscheiden door een persoonlijkere aanpak en alternatieve oplossingen. <br /> <br /> 
         Bij Auto Center Kella is uw auto in vertrouwde handen. Auto Center Kella onderscheidt zich door gedegen vakmanschap, een uitstekende werkplaats, goede service en persoonlijke aandacht voor iedere klant. <br /> <br /> 
         Wij zijn vooraf helder over de kosten en gebruiken alleen kwaliteitsonderdelen.
