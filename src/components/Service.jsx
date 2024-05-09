@@ -26,19 +26,19 @@ const Service = () => {
         {/* <div className="grid place-content-center"> */}
 
         <div className="card-one  w-full  text-center p-10 mb-2 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">3D uitlijnen</h2>
+            <h2 className="text-xl lg:text-3xl font-semibold">3D uitlijnen</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 mb-2 lg:p-20   border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Diagnose</h2>
+            <h2 className="text-xl lg:text-3xl  font-semibold">Diagnose</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 mb-2  lg:p-20 border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Herstellingen</h2>
+            <h2 className="text-xl lg:text-3xl  font-semibold">Herstellingen</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Autoruiten herstellen  en vervangen</h2>
+            <h2 className="text-xl lg:text-3xl  font-semibold">Autoruiten herstellen  en vervangen</h2>
           {/* </div> */}
         </div>
       </div>
@@ -49,19 +49,19 @@ const Service = () => {
         {/* <div className="grid place-content-center"> */}
 
         <div className="card-one  w-full  text-center p-10 mb-2 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Onderhoud Airco's</h2>
+            <h2 className="text-xl lg:text-3xl font-semibold">Onderhoud Airco's</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 mb-2 lg:p-20   border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Banden</h2>
+            <h2 className="text-xl lg:text-3xl font-semibold">Banden</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 mb-2  lg:p-20 border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Keuringsnazicht</h2>
+            <h2 className="text-xl lg:text-3xl font-semibold">Keuringsnazicht</h2>
           </div>
 
           <div className="card-one  w-full  text-center p-10 lg:p-20  border border-black rounded-lg shadow-lg"  data-aos="zoom-in">
-            <h2 className="text-3xl font-semibold">Verzekeringsoffertes</h2>
+            <h2 className="text-xl lg:text-3xl font-semibold">Verzekeringsoffertes</h2>
           {/* </div> */}
         </div>
       </div>
