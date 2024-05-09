@@ -52,7 +52,7 @@ const Footer = () => {
             <a href="" className=" text-yellow-700 hover:text-yellow-700">Vrijdag: </a>
           </li>
           <li>
-            <a href="" className="text-white hover:text-yellow-700">09:00 - 12:00 | 15:00 - 18:00</a>
+            <a href="" className="text-white hover:text-yellow-700">Gesloten</a>
           </li>
           <li>
             <a href="" className="text-yellow-700 hover:text-yellow-700">Zaterdag: </a>
